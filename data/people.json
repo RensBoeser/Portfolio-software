@@ -1,0 +1,189 @@
+{
+	"data": [
+		{
+			"id": 0,
+			"firstName": "Rens",
+			"lastName": "Boeser",
+			"avatar": "https://media.licdn.com/dms/image/C4E03AQEiJpKlsLkASQ/profile-displayphoto-shrink_200_200/0?e=1563408000&v=beta&t=upGGmSPLgUGB84cZZdqrH4E-0udpTfW1zSw1o6Jl67U",
+			"networks": {
+				"github": "https://github.com/RensBoeser",
+				"linkedIn": "https://www.linkedin.com/in/rens-boeser/"
+			}
+		},
+		{
+			"id": 1,
+			"firstName": "Laurens",
+			"lastName": "Ista",
+			"avatar": "https://media.licdn.com/dms/image/C4D03AQEF90EI7sfiBQ/profile-displayphoto-shrink_800_800/0?e=1563408000&v=beta&t=eSwR_-NxIxFsM9SdPnMTgnGZUmzlr87A4c_-PrqRvgU",
+			"networks": {
+				"github": "https://github.com/LaurensIsta",
+				"linkedIn": "https://www.linkedin.com/in/laurens-ista-56a516175/"
+			}
+		},
+		{
+			"id": 2,
+			"firstName": "Sven",
+			"lastName": "Kalkman",
+			"avatar": "https://media.licdn.com/dms/image/C4D03AQEF90EI7sfiBQ/profile-displayphoto-shrink_800_800/0?e=1563408000&v=beta&t=eSwR_-NxIxFsM9SdPnMTgnGZUmzlr87A4c_-PrqRvgU",
+			"networks": {
+				"github": "https://github.com/SvenKalkman",
+				"linkedIn": "https://www.linkedin.com/in/sven-kalkman-22a43a155/",
+				"portfolio": "http://svenkalkman.nl/"
+			}
+		},
+		{
+			"id": 3,
+			"firstName": "Kevin",
+			"lastName": "Dijkman",
+			"avatar": "https://media.licdn.com/dms/image/C4D03AQHzWrNjT9NJhA/profile-displayphoto-shrink_800_800/0?e=1563408000&v=beta&t=f7VwOAolJ9TmQtKewrV2m8IIsmZEtOSbIF4W_I7oSAY",
+			"networks": {
+				"github": "https://github.com/kedijkman",
+				"linkedIn": "https://www.linkedin.com/in/kevin-dijkman-566516175/"
+			}
+		},
+		{
+			"id": 4,
+			"firstName": "Noah",
+			"lastName": "Plazier",
+			"avatar": "https://media.licdn.com/dms/image/C5103AQFKCSwy50lEAw/profile-displayphoto-shrink_800_800/0?e=1563408000&v=beta&t=GkYefiY0TQF_qdzR1OmeY-JfhPe4gosFqQ0n99Tube4",
+			"networks": {
+				"github": "https://github.com/noahplazier",
+				"linkedIn": "https://www.linkedin.com/in/noahplazier",
+				"portfolio": "http://noahplazier.nl/"
+			}
+		},
+		{
+			"id": 5,
+			"firstName": "Sibren",
+			"lastName": "van Ek",
+			"avatar": "https://media.licdn.com/dms/image/C4D03AQGd0kaMj-l4Pg/profile-displayphoto-shrink_800_800/0?e=1563408000&v=beta&t=CQxsm4s_FvU-xLnynBqdobl2TegOcI2mG_jmzqE2NKw",
+			"networks": {
+				"github": "https://github.com/sibrenvanek",
+				"linkedIn": "https://www.linkedin.com/in/sibren-van-ek-2ba8b2130/"
+			}
+		},
+		{
+			"id": 6,
+			"firstName": "Gregory",
+			"lastName": "Kaman",
+			"networks": {}
+		},
+		{
+			"id": 7,
+			"firstName": "Erik",
+			"lastName": "van der Berk",
+			"networks": {}
+		},
+		{
+			"id": 8,
+			"firstName": "Tahsin",
+			"lastName": "",
+			"networks": {}
+		},
+		{
+			"id": 9,
+			"firstName": "Dion",
+			"lastName": "Klein",
+			"networks": {}
+		},
+		{
+			"id": 10,
+			"firstName": "Sil",
+			"lastName": "de Graaf",
+			"networks": {}
+		},
+		{
+			"id": 11,
+			"firstName": "Jeilliano",
+			"lastName": "",
+			"networks": {}
+		},
+		{
+			"id": 12,
+			"firstName": "Mark",
+			"lastName": "Spruijt",
+			"networks": {
+				"linkedIn": "https://www.linkedin.com/in/mark-spruijt/",
+				"github": "https://github.com/MarkSpruijt"
+			}
+		},
+		{
+			"id": 13,
+			"firstName": "Roméro",
+			"lastName": "Broos",
+			"avatar": "https://media.licdn.com/dms/image/C4E03AQFyiSEQoQkhKA/profile-displayphoto-shrink_800_800/0?e=1563408000&v=beta&t=IuZ4JKJ8O0_g-XhroPL41xyq5yg5c4eQbpKKUCUgrys",
+			"networks": {
+				"linkedIn": "https://www.linkedin.com/in/rom%C3%A9ro-broos-1bb51744/"
+			}
+		},
+		{
+			"id": 14,
+			"firstName": "Mei Ju",
+			"lastName": "Goemans",
+			"avatar": "http://2018.igem.org/wiki/images/4/42/T--Rotterdam_HR--mei-ju.jpeg",
+			"networks": {
+				"linkedIn": "https://www.linkedin.com/in/mei-ju-goemans-073a32158/"
+			}
+		},
+		{
+			"id": 15,
+			"firstName": "Dustin",
+			"lastName": "van der Meulen",
+			"networks": {}
+		},
+		{
+			"id": 16,
+			"firstName": "Randall",
+			"lastName": "de Waard",
+			"networks": {}
+		},
+		{
+			"id": 17,
+			"firstName": "Suzanne",
+			"lastName": "Romeijn",
+			"networks": {}
+		},
+		{
+			"id": 18,
+			"firstName": "Elise",
+			"lastName": "Grootscholte",
+			"networks": {}
+		},
+		{
+			"id": 19,
+			"firstName": "Mike",
+			"lastName": "Vrieswijk",
+			"networks": {}
+		},
+		{
+			"id": 20,
+			"firstName": "Tom",
+			"lastName": "van Dijk",
+			"networks": {}
+		},
+		{
+			"id": 21,
+			"firstName": "Paul",
+			"lastName": "Reusink",
+			"networks": {}
+		},
+		{
+			"id": 22,
+			"firstName": "Loraine",
+			"lastName": "Nelson",
+			"networks": {}
+		},
+		{
+			"id": 23,
+			"firstName": "Dimitri",
+			"lastName": "Phillips",
+			"networks": {}
+		},
+		{
+			"id": 24,
+			"firstName": "Tim",
+			"lastName": "van Leeuwen",
+			"networks": {}
+		}
+	]
+}

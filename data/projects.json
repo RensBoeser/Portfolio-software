@@ -1,0 +1,94 @@
+{
+	"data": [
+		{
+			"id": 0,
+			"title": "Boardgame",
+			"subtitle": "Akkers 2 Beurs",
+			"grade": 8.5,
+			"members": [0, 1, 5],
+			"startDate": "2016-10-01",
+			"endDate": "2016-11-01",
+			"schoolCurriculum": true,
+			"description": "<p>This was the first project as a computer scientist undergraduate student at Hogeschool Rotterdam. As software engineers, we needed to learn how to cooperate on projects using the agile/scrum method. This project was meant to teach exactly that.</p>\n<p>For this project you had to design a real life boardgame (so no software yet!) with materials of your own choice. The project was divided in three sprints of 1 week each. The goal of this project was not to build a fully functional boardgame, but to divide roles and cooperate using the scrum method. The grade was partially dependant on the end product, due to the use-cases that were defined by a product owner.</p>"
+		},
+		{
+			"id": 1,
+			"title": "Digital Boardgame",
+			"subtitle": "Battleport - Rotterdam Edition",
+			"grade": 8,
+			"members": [0, 6, 7, 8],
+			"startDate": "2017-01-01",
+			"endDate": "2017-02-01",
+			"schoolCurriculum": true
+		},
+		{
+			"id": 2,
+			"title": "Data Visualisation",
+			"subtitle": "Rotterdam location/gender data",
+			"grade": 7,
+			"members": [0, 1, 2, 3, 4, 9],
+			"startDate": "2017-04-01",
+			"endDate": "2017-05-01",
+			"schoolCurriculum": true
+		},
+		{
+			"id": 3,
+			"title": "Cross-platform Game",
+			"subtitle": "The Legend of Kru",
+			"grade": 8.5,
+			"members": [0, 1, 2, 3, 4, 9],
+			"startDate": "2017-06-01",
+			"endDate": "2017-07-01",
+			"schoolCurriculum": true
+		},
+		{
+			"id": 4,
+			"title": "MVC Webshop",
+			"subtitle": "Toy store",
+			"grade": 8.3,
+			"members": [0, 3, 6, 10, 11],
+			"startDate": "2017-09-01",
+			"endDate": "2018-02-01",
+			"schoolCurriculum": true
+		},
+		{
+			"id": 5,
+			"title": "Emerging Technologies",
+			"subtitle": "Project B - Suddy the Social Buddy",
+			"grade": 9.1,
+			"members": [0, 12, 13, 23, 24],
+			"startDate": "2018-02-01",
+			"endDate": "2018-07-01",
+			"schoolCurriculum": true
+		},
+		{
+			"id": 6,
+			"title": "Software Engineering",
+			"subtitle": "Typesafe LINQ in TypeScript",
+			"members": [0],
+			"startDate": "2019-02-01",
+			"endDate": "2019-07-01",
+			"schoolCurriculum": true
+		},
+		{
+			"id": 7,
+			"title": "iGEM Global Competition",
+			"subtitle": "Carbondioxide Detection",
+			"grade": "Bronze Medal",
+			"members": [0, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+			"startDate": "2018-03-01",
+			"endDate": "2018-11-01",
+			"schoolCurriculum": false
+		},
+		{
+			"id": 8,
+			"title": "Image processing",
+			"subtitle": "Elective course",
+			"grade": 10,
+			"members": [0, 4],
+			"startDate": "2018-11-01",
+			"endDate": "2019-02-01",
+			"schoolCurriculum": false
+		}
+	]
+}
